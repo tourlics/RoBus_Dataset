@@ -1,5 +1,5 @@
 # RoBus_Dataset
-* Official repository for ArXiv Preprint paper "RoBus: A Multimodal Dataset for Controllable Road Networks and Building Layouts Generation". Full code will be released after acceptance.
+* Official repository for ArXiv Preprint paper "[RoBus: A Multimodal Dataset for Controllable Road Networks and Building Layouts Generation](https://arxiv.org/abs/2407.07835)". Full code and dataset will be released after acceptance.
 
 ## Introduction
 Automated 3D city generation, focusing on road networks and building layouts, is in high demand for applications in urban design, multimedia games and autonomous driving simulations.
