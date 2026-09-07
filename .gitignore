@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+*~
+*.out
+nohup.out
+*.pyd
+*.pyc
+*.pyo
+*.o
+__pycache__/
+*.egg-info/
+.vscode/
+.cursor/
+wandb/
