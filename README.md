@@ -150,3 +150,20 @@ Please visit the following links to download the datasets:
 To obtain the extraction codes, please email tourlics@foxmail.com and include your institution in the message.
 
 For convenience, the datasets are provided as large TIFF files. You can crop them using the scripts in this repository.
+
+## Citation
+
+If you use the RoBus dataset or this code, please cite:
+
+```bibtex
+@article{li2026robus,
+  title={RoBus: A Multimodal Dataset for Controllable Road Networks and Building Layout Generation},
+  author={Li, Tao and Li, Ruihang and Zheng, Huangnan and Chen, Heng and Wang, Kehan and Guo, Wangliang and Li, Hong and Li, Shijian and Pan, Zhijie},
+  journal={Computers},
+  volume={15},
+  number={8},
+  pages={488},
+  year={2026},
+  publisher={MDPI}
+}
+```
